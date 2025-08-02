@@ -1,0 +1,41 @@
+.questionscontainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.faqbox {
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 1104px;
+}
+
+
+h1 {
+    color: #8800C8;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'DM Sans', sans-serif;
+}
+
+/* mobile layout */
+
+@media (max-width: 430px) {
+  .questionscontainer {
+    max-width: 720px;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .faqbox {
+    max-width: 360px;
+
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 40px;
+  }
+}
