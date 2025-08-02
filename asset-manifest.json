@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zipboard/static/css/main.87af981c.css",
+    "main.js": "/zipboard/static/js/main.f1c71cba.js",
+    "index.html": "/zipboard/index.html",
+    "main.87af981c.css.map": "/zipboard/static/css/main.87af981c.css.map",
+    "main.f1c71cba.js.map": "/zipboard/static/js/main.f1c71cba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87af981c.css",
+    "static/js/main.f1c71cba.js"
+  ]
+}
